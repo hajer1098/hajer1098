@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hajer Boukhari</h1>
 <h3 align="center">A software engineer</h3>
 
-- 🔭 I’m currently working on **Smartovate**
 
-- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hajer1098](https://github.com/hajer1098)
 
-- 💬 Ask me about **HTML5 CSS3 Bootstrap Angular Nest js Python Django**
+- 💬 Ask me about **HTML5 CSS3 Bootstrap Java (spring boot ,JEE) Python(Django)  Angular **
 
 - 📫 How to reach me **hajerboukhari2018@gmail.com**
 
